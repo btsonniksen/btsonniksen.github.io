@@ -2,3 +2,11 @@
     color: rgb(0, 90, 0);
     font-weight: bold;
 }
+
+.emphasis {
+    color: red;
+}
+
+.massivegains {
+    font-size: 100pt;
+}
